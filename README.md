@@ -51,8 +51,6 @@ This project demonstrates a **Sign-Up Form** with validation features implemente
 - Password: Must match the confirmation password.
 - Mobile Number: Must contain only numbers.
 
-## Screenshots
 
-![Sign-Up Form](https://via.placeholder.com/800x400.png?text=Form+Validation+Demo)
 
 
